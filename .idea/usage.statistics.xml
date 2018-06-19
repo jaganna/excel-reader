@@ -5,14 +5,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="14" />
-          <entry key="groovy" value="32" />
+          <entry key="groovy" value="33" />
           <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="14" />
-          <entry key="Groovy" value="32" />
+          <entry key="Groovy" value="33" />
           <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
